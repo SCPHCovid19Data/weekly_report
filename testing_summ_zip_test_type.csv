@@ -1,0 +1,13 @@
+"zip_code","test_type","pos_tests","neg_tests","total_tests"
+"80424","PCR",1171,13068,14239
+"80424","serology",121,689,810
+"80435","PCR",1038,9069,10107
+"80435","serology",77,411,488
+"80443","PCR",389,5595,5984
+"80443","serology",61,328,389
+"80497","PCR",79,820,899
+"80497","serology",7,43,50
+"80498","PCR",633,7121,7754
+"80498","serology",57,333,390
+"Outside Summit","PCR",16,239,255
+"Outside Summit","serology",8,119,127
