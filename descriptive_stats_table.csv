@@ -1,3 +1,3 @@
 "period","Minimum Daily Cases","Maximum Daily Cases","Standard Deviation Daily Cases","Standard Error Daily Cases","Average Daily Cases","Median Daily Cases"
-"Current",1,3,1.15470053837925,0.436435780471985,1.66666666666667,1
-"Previous",1,7,2.42212028327799,0.915475416434127,2.66666666666667,1.5
+"Current",1,1,0,0,1,1
+"Previous",1,3,1.15470053837925,0.436435780471985,1.66666666666667,1
